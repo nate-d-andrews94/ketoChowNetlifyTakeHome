@@ -1,0 +1,5 @@
+Please use the zipped repo to build the example blog (see google drive link below for both) from Medium with NextJs and Tailwind CSS.
+
+The goal is to write no custom css, just use Tailwind classes. It should be responsive and the side bars should be sticky on desktop. The buttons don't have to go anywhere, you can just do href="#" to keep things simple. You don't need to build a footer. You don't have to connect it to any wordpress or anything. You can use placeholder images and placeholder text.
+
+Create a repo on github, it can be private if you want, and then export the repo zip and email it back.
